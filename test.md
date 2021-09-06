@@ -1,6 +1,6 @@
 # TEST PLAN:
 
-## Table no: High level test plan
+## Table 1: High level test plan
 
 | **Test ID** | **Description**                                              | **Exp I/P**   | **Exp O/P** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|-------------- |-------------|----------------|------------------|
@@ -9,7 +9,7 @@
 |  H_03       |Binary to Hexadecimal Conversion.                                 |Binary string  |Hexadeciaml Value String | PASS          |Requirement based |
 
 
-## Table no: Low level test plan
+## Table 2: Low level test plan
 
 | **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
