@@ -13,4 +13,4 @@
 
 | **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
-|  L_01       |if choice for the switchcase is within the range| choice  (0-3)|Respective case statement will be printed else wrong choice|Print statement|Scenario based    |
+|  L_01       |if choice for the switchcase is within the range| choice         (0-3)|Respective case statement will be printed else wrong choice|Print statement|Scenario based    |
