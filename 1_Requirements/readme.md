@@ -12,13 +12,9 @@
  - Different numbersystems can be followedc in different cases 
  - Numbersystem conversions can minimize the memory usage.
  - Numbersystem conversions contribute Man-Machine communication.
-## Cost and Features
-![Description](Link to Pic)
--- Content 
-
+ - 
 ## Defining Our System
 ### Architecture
-![Architecture](https://github.com/keshavamurthy5/ltts_stepin_miniproject/blob/main/1_Requirements/Architecture.png)
 -Binary nhumber system conversion is capable of performing following functions :- 
     - Converting a Binary number to Decimal number.
     - Converting a Binary number to Octal number.
