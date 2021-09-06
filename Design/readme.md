@@ -1,5 +1,0 @@
-# Pract
-
-## sai
-
-### sss
